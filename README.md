@@ -7,8 +7,8 @@ Conexion is a cutting-edge generative AI project designed to empower users in cr
 
 #### **AI-Generated Social Media Posts:**
 - Powered by Meta’s **LLAMA 2 7B** chat model, fine-tuned on a meticulously curated dataset of **5,500** posts to ensure high-quality and engaging captions.
-
-- The Model is hosted on **Hugging Face🤗** for easy loading and deployment. [**View**](https://huggingface.co/krimson1/Llama2-7b-chat-hf-linkedin)
+> [!NOTE]
+> The Model is hosted on **Hugging Face🤗** for easy loading and deployment. [**View**](https://huggingface.co/krimson1/Llama2-7b-chat-hf-linkedin)
 #### **Fine-Tuned for Enhanced Performance:**
 - Utilized **LoRA (Low-Rank Adaptation)** with **PEFT (Parameter-Efficient Fine-Tuning)**, achieving an impressive model loss of 1.89 for optimized content generation.
 #### **Contextual Image Generation:**
