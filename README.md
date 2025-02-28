@@ -19,13 +19,13 @@ Conexion is a cutting-edge generative AI project designed to empower users in cr
 ## 📂 Project Structure
 - [**Dataset_generator_llama3.ipynb:**](https://github.com/Kr1mson/Conexion/blob/main/Dataset_generator_llama3.ipynb) Demonstrates how we fabricated the dataset using LLAMA 3.2 3B to generate training prompts.
 - [**Model_fine_tuning.ipynb:**](https://github.com/Kr1mson/Conexion/blob/main/Model_fine_tuning.ipynb) Provides a step-by-step guide on fine-tuning LLAMA 2 7B with LoRA and PEFT.
-- [**Final_model_finetuned.ipynb:**](https://github.com/Kr1mson/Conexion/blob/main/Model_fine_tuning.ipynb) Shows how to load and use the fine-tuned model from Hugging Face for content generation.
+- [**Final_model_finetuned.ipynb:**](https://github.com/Kr1mson/Conexion/blob/main/Final_model_finetuned.ipynb) Shows how to load and use the fine-tuned model from Hugging Face for content generation.
 ## 📥 How to Use
 1. Clone the Repository
 - ```git clone https://github.com/Kr1mson/Conexion.git```   
 - ```cd conexion```
 2. Run the Model
-- Use [**Final_model_finetuned.ipynb**](https://github.com/Kr1mson/Conexion/blob/main/Model_fine_tuning.ipynb) to load the model and generate captions.
+- Use [**Final_model_finetuned.ipynb**](https://github.com/Kr1mson/Conexion/blob/main/Final_model_finetuned.ipynb) to load the model and generate captions.
 ## 🛠️ Future Enhancements
 - Expand dataset to improve model performance.
 - Implement a User Friendly UI. 
