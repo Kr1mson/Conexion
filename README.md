@@ -6,15 +6,15 @@ Conexion is a cutting-edge generative AI project designed to empower users in cr
 ## 🚀 Features
 
 #### **AI-Generated Social Media Posts:**
-Powered by Meta’s **LLAMA 2 7B** chat model, fine-tuned on a meticulously curated dataset of **5,500** posts to ensure high-quality and engaging captions.
+- Powered by Meta’s **LLAMA 2 7B** chat model, fine-tuned on a meticulously curated dataset of **5,500** posts to ensure high-quality and engaging captions.
 
-The Model is hosted on **Hugging Face🤗** for easy loading and deployment. [**View**](https://huggingface.co/krimson1/Llama2-7b-chat-hf-linkedin)
+- The Model is hosted on **Hugging Face🤗** for easy loading and deployment. [**View**](https://huggingface.co/krimson1/Llama2-7b-chat-hf-linkedin)
 #### **Fine-Tuned for Enhanced Performance:**
-Utilized **LoRA (Low-Rank Adaptation)** with **PEFT (Parameter-Efficient Fine-Tuning)**, achieving an impressive model loss of 1.89 for optimized content generation.
+- Utilized **LoRA (Low-Rank Adaptation)** with **PEFT (Parameter-Efficient Fine-Tuning)**, achieving an impressive model loss of 1.89 for optimized content generation.
 #### **Contextual Image Generation:**
-Integrated **Stable Diffusion 3** Medium to generate visually stunning and contextually aligned images that complement the generated text.
+- Integrated **Stable Diffusion 3** Medium to generate visually stunning and contextually aligned images that complement the generated text.
 #### **Handcrafted Dataset:**
-Data was collected from several sources, then processed and formatted to align with **LLAMA 2 7B’s input requirements**, ensuring high-quality training data.
+- Data was collected from several sources, then processed and formatted using **LLAMA 3.2** to align with **LLAMA 2 7B’s input requirements**, ensuring high-quality training data.
 
 ## 📂 Project Structure
 - [**Dataset_generator_llama3.ipynb:**](https://github.com/Kr1mson/Conexion/blob/main/Dataset_generator_llama3.ipynb) Demonstrates how we fabricated the dataset using LLAMA 3.2 3B to generate training prompts.
