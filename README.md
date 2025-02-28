@@ -3,12 +3,13 @@
 
 Conexion is a cutting-edge generative AI project designed to empower users in creating engaging and visually appealing content for popular social media platforms such as LinkedIn, Twitter, Threads, and Instagram. By leveraging advanced generative models, Conexion enables users to craft high-quality posts with contextually relevant visuals, streamlining the content creation process.
 
+> [!NOTE]
+> The Model is hosted on **Hugging Face🤗** for easy loading and deployment. [**View**](https://huggingface.co/krimson1/Llama2-7b-chat-hf-linkedin)
+
 ## 🚀 Features
 
 #### **AI-Generated Social Media Posts:**
 - Powered by Meta’s **LLAMA 2 7B** chat model, fine-tuned on a meticulously curated dataset of **5,500** posts to ensure high-quality and engaging captions.
-> [!NOTE]
-> The Model is hosted on **Hugging Face🤗** for easy loading and deployment. [**View**](https://huggingface.co/krimson1/Llama2-7b-chat-hf-linkedin)
 #### **Fine-Tuned for Enhanced Performance:**
 - Utilized **LoRA (Low-Rank Adaptation)** with **PEFT (Parameter-Efficient Fine-Tuning)**, achieving an impressive model loss of 1.89 for optimized content generation.
 #### **Contextual Image Generation:**
